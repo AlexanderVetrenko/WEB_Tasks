@@ -1,0 +1,25 @@
+html {
+font-size: 15px;
+font-family: 'Roboto', sans-serif;
+background-color: #FFDEAD; //#FFEFD5;
+}
+
+h1 {
+margin: 0;
+padding: 20px 0;
+text-align: center;
+text-shadow: 2px 2px 1px grey;
+}
+
+body {
+width: 1200px;
+margin: 0 auto;
+background-color: #DEB887;//#FFE4B5;
+padding: 0 20px 20px 20px;
+border: border: 2px solid white;
+}
+
+li{
+	width: 1150px;
+	text-align: justify;
+}
